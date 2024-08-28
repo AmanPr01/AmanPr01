@@ -11,7 +11,7 @@ I'm a passionate Software Developer with focus on backend development. Currently
 - **Project Management**: MVC Architecture, Microservices
 
 ### 🛠 Projects
-- **[E-Commerce Application](https://github.com/AmanPr01/E-Commerce/tree/main)**: Engineered a microservices-based backend application using Spring Boot, JPA, and MySQL. Integrated core services for authentication, notification, user management, product cataloging, and payment processing. Optimized with Redis caching and achieved 95% test coverage with JUnit.
+- **[E-Commerce Application](https://github.com/AmanPr01/E-Commerce/tree/main)**: Engineered a microservices-based backend application using Spring Boot, JPA, and MySQL. Integrated core services for authentication, notification, product cataloging, and payment processing.
 - **[TicTacToe](https://github.com/AmanPr01/TicTacToe)**: Developed a scalable TicTacToe game supporting up to 26 players with dynamically adjustable board sizes. Features include bot players with adjustable difficulty levels and custom exception handling. Reduced code complexity using Factory and Strategy Patterns.
 
 ### 📈 Current Focus
