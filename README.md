@@ -29,7 +29,16 @@ I'm a passionate Software Developer with focus on backend development. Currently
     - **Security**: Implemented OAuth 2.0 to secure user data and access.
     - **Reliability**: Utilized Apache Kafka for reliable email delivery and integrated robust error handling mechanisms.
   - **Outcome**: Achieved significant improvements in system scalability, reliability, and user security. The application effectively supports over 10,000 concurrent users and transactions.
-- **[TicTacToe](https://github.com/AmanPr01/TicTacToe)**: Developed a scalable TicTacToe game supporting up to 26 players with dynamically adjustable board sizes. Features include bot players with adjustable difficulty levels and custom exception handling. Reduced code complexity using Factory and Strategy Patterns.
+- **[TicTacToe](https://github.com/AmanPr01/TicTacToe)**:
+  - **Overview**: Developed a feature-rich, scalable TicTacToe game capable of supporting up to 26 players concurrently, showcasing its robustness and potential for complex multiplayer extensions.
+  - **Features**:
+    - **AI Bots**: Integrated AI bots with two difficulty levels to enhance gameplay variety:
+      - **Easy**: The bot fills the first empty cell.
+      - **Medium**: The bot makes random moves.
+    - **Error Handling**: Improved game logic and custom exception handling to ensure a smoother user experience and more reliable error detection.
+    - **Code Optimization**: Utilized Factory and Strategy Patterns to streamline code complexity and reduce modification time, leading to improved performance.
+    - **Future Enhancements**: Established a foundation for future features like adjustable bot difficulty, undo functionality, and save/load capabilities.
+  - **Impact**: Enhanced user engagement by diversifying gameplay and adding meaningful features.
 
 ### 📈 Current Focus
 Building a Social Media Platform as a backend project to further enhance my skills in Spring Boot and microservices.
