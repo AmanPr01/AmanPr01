@@ -6,7 +6,7 @@ I'm a passionate Software Developer with focus on backend development. Currently
 ### 🚀 Skills
 - **Languages**: Java
 - **Frameworks**: Spring Boot, Spring MVC, Spring JPA
-- **Databases**: MySQL, Redis
+- **Databases**: MySQL
 - **Tools**: Git, Kafka, PostMan
 - **Project Management**: MVC Architecture, Microservices
 
