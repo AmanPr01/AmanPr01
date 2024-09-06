@@ -7,8 +7,9 @@ I'm a passionate Software Developer with focus on backend development. Currently
 - **Languages**: Java
 - **Frameworks**: Spring Boot, Spring MVC, Spring JPA
 - **Databases**: MySQL
-- **Tools**: Git, Kafka, PostMan
+- **Tools**: Kafka, Git, PostMan
 - **Project Management**: MVC Architecture, Microservices
+- **Other skills**: DSA, LLD, OOPs, DBMS
 
 ### 🛠 Projects
 - **[E-Commerce Application](https://github.com/AmanPr01/E-Commerce)**: - **Overview**: Designed and developed a scalable microservices-based backend application using Spring Boot, JPA, and MySQL to handle various e-commerce functionalities.
