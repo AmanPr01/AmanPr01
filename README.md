@@ -18,6 +18,7 @@ I'm a passionate Software Developer with focus on backend development. Currently
     - **[User Service](https://github.com/AmanPr01/UserService)**: Implements secure authentication using OAuth 2.0, ensuring safe and reliable user login and authorization.
     - **[Email Service](https://github.com/AmanPr01/EmailService)**: Utilizes Apache Kafka for asynchronous email notifications, enhancing the reliability and scalability of communication features.
     - **[Payment Service](https://github.com/AmanPr01/PaymentService)**: Integrates Stripe for secure payment processing, facilitating transactions with industry-standard security and ease of use.
+    - **[Service Discovery](https://github.com/AmanPr01/ServiceDiscovery)**: Central registry for service registration and discovery, enabling dynamic interaction between microservices.
   - **Key Technologies**: 
     - **Spring Boot**: For developing and deploying microservices.
     - **Spring JPA**: For managing database interactions and transactions.
